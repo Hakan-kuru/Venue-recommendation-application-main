@@ -76,7 +76,15 @@ Mekan Öneri Uygulaması, sadece bir yer arama aracı değil, **kişisel bir ke�
 
 ---
 
-## 📌 Not
+## 📌 ekran görüntüleri
 
-Bu dokümantasyon, uygulamanın çalışma mantığını özetler. Teknik kurulum ve geliştirme detayları için `README.dev.md` dosyasına göz atabilirsiniz.
+<img src="Screenshot_20250612_020518.png" width="300"/>
+
+<img src="Screenshot_20250612_020442.png" width="300"/>
+
+
+<img src="Screenshot_20250612_020506.png" width="300"/>
+
+
+<img src="Screenshot_20250612_020457.png" width="300"/>
 
